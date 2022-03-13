@@ -13,6 +13,9 @@ namespace Meu_Site_MVC.Controllers
             HomeModel home = new HomeModel();
             home.Nome = "Marta Neris";
             home.Email = "martaneris35@gmail.com";
+            home.Sexo = "Feminino";
+            home.Idade = "43 Anos ";
+            home.Telefone = "Este meu telefone para contado 47991282290";
             
 
 
